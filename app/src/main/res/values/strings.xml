@@ -3,6 +3,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="emptytodo">You don\'t have any todos</string>
     <string name="empty_todos">You don\'t have any todos</string>
+    <string name="hint_edt_title">Title</string>
+    <string name="hint_edt_hint">Description</string>
+    <string name="click_clock"><![CDATA[Click here to add reminder >>>]]></string>
 </resources>
